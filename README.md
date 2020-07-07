@@ -1,5 +1,7 @@
 # Single Product Sliders For WooCommerce
 
+Apologies but I cannot locate any of the back end code as the agency was brought out by a bigger company, so for now the code is only the front end implementation.
+
 This applet is a solution to a problem we had when wanting to offer a "social signals" service to our clients.
  
 The slider allows the user to specify how many social signals they want to target for each URL and that is then stored in the back end on the order notes.
